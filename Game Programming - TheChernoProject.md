@@ -242,3 +242,53 @@
 [080]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/wAzZmuHaUY/Game%20Programming%20-%20Episode%20080%20-%20Particle%20Physics.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
 
 [081]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/vV823erSlz/Game%20Programming%20-%20Episode%20081%20-%20Pixel-Perfect%20Collision.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[082]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/V6-CwheaTV/Game%20Programming%20-%20Episode%20082%20-%20Particle%20Simulation.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[083]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/6BHKtpE4_A/Game%20Programming%20-%20Episode%20083%20-%20Wall%20and%20Grass%20Sprites%20in%20After%20Effects.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[084]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/VhoY7PcPyr/Game%20Programming%20-%20Episode%20084%20-%20Floor%20and%20Wall%20Sprites%20in%20After%20Effects.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[085]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/xurYnr06DE/Game%20Programming%20-%20Episode%20085%20-%20The%20Player%20Sprite.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[086]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/5x0Gbrf0ZB/Game%20Programming%20-%20Episode%20086%20-%20Sub-Sprite%20Sheets.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
+
+[087]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/y5tw1vYfkD/Game%20Programming%20-%20Episode%20087%20-%20The%20Animated%20Sprite%20Class.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+
+[088]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/ERXboDU5t1/Game%20Programming%20-%20Episode%20088%20-%20Importing%20Our%20New%20Sprites.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+
+[089]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/VAKXUrZza-/Game%20Programming%20-%20Episode%20089%20-%20New%20Player%20Animation%20%2B%20Poll.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+
+[090]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/t16gCiPttA/Game%20Programming%20-%20Episode%20090%20-%20Mobs%20-%20NPCs.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+
+[091]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/vH1mITsV7H/Game%20Programming%20-%20Episode%20091%20-%20Animating%20Mobs.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+
+[092]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/hM5IG4bmFK/Game%20Programming%20-%20Episode%20092%20-%20Basic%20Random%20AI.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[093]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/WE7hydQ0KP/Game%20Programming%20-%20Episode%20093%20-%20AI%20Mob%20Rendering.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[094]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/YlGCZ-1HzW/Game%20Programming%20-%20Episode%20094%20-%20Basic%20Chaser%20AI.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[095]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/phkHYoH_e2/Game%20Programming%20-%20Episode%20095%20-%20Entity%20Distances%20and%20Ranges%20%28AI%29.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[096]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/aPHxkf77Zu/Game%20Programming%20-%20Episode%20096%20-%20Faster%20Mob%20Movement.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[097]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/Ppgqh7ioQO/Game%20Programming%20-%20Episode%20097%20-%20Slow%20and%20Precise%20Entity%20Movement.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[098]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/4obkeqX-I3/Game%20Programming%20-%20Episode%20098%20-%20Vectors.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[099]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/l4_v_Uy4h8/Game%20Programming%20-%20Episode%20099%20-%20Nodes%20and%20A%20Costs.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[100]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/Nf2i13nvgX/Game%20Programming%20-%20Episode%20100%20-%20A%20STAR%20SEARCH%20ALGORITHM.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[101]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/sgR25BX1EJ/Game%20Programming%20-%20Episode%20101%20-%20Star%20Mob%21%20%28A%20Search%20Algorithm%29.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[102]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/hBD4pre64v/Game%20Programming%20-%20Episode%20102%20-%20Collision%20and%20A%20Tweaking.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[103]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/79gw8DzqoE/Game%20Programming%20-%20Episode%20103%20-%20Shooting%20Mobs.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[104]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/aVk7thdbpI/Game%20Programming%20-%20Episode%20104%20-%20Mob%20Targeting.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[105]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/R42YZux6p5/Game%20Programming%20-%20Episode%20105%20-%20Random%20Targeting.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[106]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/qeuCB-hoXx/Game%20Programming%20-%20Episode%20106%20-%20Debug%20Class%20and%20Rectangles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
