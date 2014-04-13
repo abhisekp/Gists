@@ -107,15 +107,15 @@
 * Game Programming - Episode 105 - Random Targeting [105]
 * Game Programming - Episode 106 - Debug Class and Rectangles [106]
 
-[014]: https://dl.dropboxusercontent.com/sh/pws3wgto8qrf4xu/yhtnn7dkFm/Game%20Programming%20-%20Episode%2014%20-%20FPS%20Counter.mp4?dl=1&token_hash=AAF7_apbH7UCRTD1Fj5uIJY-gFYs3jl40ZB1Jxru8fKyrw
+[014]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/oKugScpiXz/Game%20Programming%20-%20Episode%2014%20-%20FPS%20Counter.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[015]: https://dl.dropboxusercontent.com/sh/pws3wgto8qrf4xu/u4pk4ubSMp/Game%20Programming%20-%20Episode%2015%20-%20Tiles.mp4?dl=1&token_hash=AAF7_apbH7UCRTD1Fj5uIJY-gFYs3jl40ZB1Jxru8fKyrw
+[015]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/o0tVYxyB6b/Game%20Programming%20-%20Episode%2015%20-%20Tiles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[016]: https://dl-web.dropbox.com/get/Apps/My%20Downloads/Game%20Programming%20-%20Episode%2016%20-%20The%20Map.mp4?w=AABVFNkAVjgVMYMzsu5zHW_1mLlcMAzXawiWD9nMS9FcVQ&dl=1&_subject_uid=44414204
+[016]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/1XftsqqU2Z/Game%20Programming%20-%20Episode%2016%20-%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[017]: https://dl.dropboxusercontent.com/sh/pws3wgto8qrf4xu/3KX6rujkNn/Game%20Programming%20-%20Episode%2017%20-%20Key%20Input.mp4?dl=1&token_hash=AAF7_apbH7UCRTD1Fj5uIJY-gFYs3jl40ZB1Jxru8fKyrw
+[017]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/HbtmvUgPqI/Game%20Programming%20-%20Episode%2017%20-%20Key%20Input.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[018]: https://dl.dropboxusercontent.com/sh/pws3wgto8qrf4xu/gXc1pEUvK-/Game%20Programming%20-%20Episode%2018%20-%20Controlling%20The%20Map.mp4?dl=1&token_hash=AAF7_apbH7UCRTD1Fj5uIJY-gFYs3jl40ZB1Jxru8fKyrw
+[018]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/SRVEo39z5u/Game%20Programming%20-%20Episode%2018%20-%20Controlling%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
 [019]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/5GBZCC3fm-/Game%20Programming%20-%20Episode%2019%20-%20Sprite%20Sheets.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
