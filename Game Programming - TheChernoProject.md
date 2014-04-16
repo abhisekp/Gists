@@ -1,4 +1,5 @@
 # Game Programming - TheChernoProject
+[https://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf]
 
 * Game Programming - Episode 001 - Resolution [001]
 * Game Programming - Episode 002 - Threads [002]
@@ -106,6 +107,33 @@
 * Game Programming - Episode 104 - Mob Targeting! [104]
 * Game Programming - Episode 105 - Random Targeting [105]
 * Game Programming - Episode 106 - Debug Class and Rectangles [106]
+* Game Programming - Episode 107 - Font Sheets [107]
+
+[001]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/ZUkQ_mRxgG/Game%20Programming%20-%20Episode%20001%20-%20Resolution.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[002]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/JhafRqyl5Z/Game%20Programming%20-%20Episode%20002%20-%20Threads.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[003]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/VoRUmV_NQK/Game%20Programming%20-%20Episode%20003%20-%20Game%20Loop.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[004]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/H08uKBX3Vg/Game%20Programming%20-%20Episode%20004%20-%20Window.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[005]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/q_CqweFbmA/Game%20Programming%20-%20Episode%20005%20-%20Buffer%20Strategy.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[006]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/3-85VrSXiE/Game%20Programming%20-%20Episode%20006%20-%20Graphics%20Initialized.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[007]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/IBxMPZkSIo/Game%20Programming%20-%20Episode%20007%20-%20Buffered%20Image%20and%20Rasters.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[008]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/3wEwQ7da9f/Game%20Programming%20-%20Episode%20008%20-%20The%20Screen%20Class.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[009]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/iCOeAkk1l0/Game%20Programming%20-%20Episode%20009%20-%20Rendering%20Pixels.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[0010]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/vEqx9jBtE9/Game%20Programming%20-%20Episode%20010%20-%20Clearing%20the%20Screen.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+
+[011]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/SSH95NDjM3/Game%20Programming%20-%20Episode%20011%20-%20Out%20of%20Bounds%2C%20Baby%21.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[012]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/0Nj33dFxvJ/Game%20Programming%20-%20Episode%20012%20-%20Negative%20Bounds.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[013]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/zv3Tcae2XS/Game%20Programming%20-%20Episode%20013%20-%20Timer.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
 [014]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/oKugScpiXz/Game%20Programming%20-%20Episode%2014%20-%20FPS%20Counter.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
@@ -292,3 +320,5 @@
 [105]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/R42YZux6p5/Game%20Programming%20-%20Episode%20105%20-%20Random%20Targeting.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
 [106]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/qeuCB-hoXx/Game%20Programming%20-%20Episode%20106%20-%20Debug%20Class%20and%20Rectangles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+
+[107]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/4AovuaOgJs/Game%20Programming%20-%20Episode%20107%20-%20Font%20Sheets.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
