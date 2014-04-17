@@ -135,35 +135,35 @@
 
 [013]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/zv3Tcae2XS/Game%20Programming%20-%20Episode%20013%20-%20Timer.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
-[014]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/oKugScpiXz/Game%20Programming%20-%20Episode%2014%20-%20FPS%20Counter.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[014]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/0ltTIq3y3-/Game%20Programming%20-%20Episode%20014%20-%20FPS%20Counter.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[015]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/o0tVYxyB6b/Game%20Programming%20-%20Episode%2015%20-%20Tiles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[015]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/aTuEFPBG6X/Game%20Programming%20-%20Episode%20015%20-%20Tiles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[016]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/1XftsqqU2Z/Game%20Programming%20-%20Episode%2016%20-%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[016]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/RWPEJZ0Bu1/Game%20Programming%20-%20Episode%20016%20-%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[017]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/HbtmvUgPqI/Game%20Programming%20-%20Episode%2017%20-%20Key%20Input.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[017]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/Y5l1SFVAEV/Game%20Programming%20-%20Episode%20017%20-%20Key%20Input.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[018]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/SRVEo39z5u/Game%20Programming%20-%20Episode%2018%20-%20Controlling%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[018]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/NwzH8pk912/Game%20Programming%20-%20Episode%20018%20-%20Controlling%20The%20Map.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[019]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/5GBZCC3fm-/Game%20Programming%20-%20Episode%2019%20-%20Sprite%20Sheets.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[019]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/1ixPMcmA2T/Game%20Programming%20-%20Episode%20019%20-%20Sprite%20Sheets.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[020]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/v7Zv8b6hPV/Game%20Programming%20-%20Episode%2020%20-%20Sprites.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[020]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/bKRI-LRhQI/Game%20Programming%20-%20Episode%20020%20-%20Sprites.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[021]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/6MKw3_1sZF/Game%20Programming%20-%20Episode%2021%20-%20Creating%20Sprites.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[021]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/BjU35CEpb0/Game%20Programming%20-%20Episode%20021%20-%20Creating%20Sprites.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[022]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/u7XEGFQKMh/Game%20Programming%20-%20Episode%2022%20-%20Drawing%20Sprites.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[022]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/rRZAxh4FBP/Game%20Programming%20-%20Episode%20022%20-%20Drawing%20Sprites.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[023]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/Wbu8lDdNFu/Game%20Programming%20-%20Episode%2023%20-%20Moving%20Logic.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[023]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/0dT6FRMnte/Game%20Programming%20-%20Episode%20023%20-%20Moving%20Logic.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[024]: https://dl.dropboxusercontent.com/s/gl9w13qf1h2qe5k/Game%20Programming%20-%20Episode%2024%20-%20Level%20Class%20Overview.mp4?dl=1&token_hash=AAEi7Wrzn2HxiwOb1O5DBQgeSGnMGq9M-dvkbD8baHChAQ
+[024]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/dg1pf0Si20/Game%20Programming%20-%20Episode%20024%20-%20Level%20Class%20Overview.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[025]: https://dl.dropboxusercontent.com/s/qjzgj2urtr083y7/Game%20Programming%20-%20Episode%2025%20-%20Random%20Level%20Basis.mp4?dl=1&token_hash=AAEHzTJBhimsCSYYBsHdkXfSXUMu6UI7ALwc0rcYQQJoFQ
+[025]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/2TEV6zZHUc/Game%20Programming%20-%20Episode%20025%20-%20Random%20Level%20Basis.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[026]: https://dl.dropboxusercontent.com/s/bsaiyvi5tk9kmc9/Game%20Programming%20-%20Episode%2026%20-%20The%20Tile%20Class.mp4?dl=1&token_hash=AAFY8rdD8_zU2cjssV1k2DIKTX27kuZXnxtI8wNhUNIRsA
+[026]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/Vi4eF2DVfm/Game%20Programming%20-%20Episode%20026%20-%20The%20Tile%20Class.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[027]: https://dl.dropboxusercontent.com/s/3knwh2i8msostn9/Game%20Programming%20-%20Episode%2027%20-%20Creating%20Tiles.mp4?dl=1&token_hash=AAFtxxi3rCoG17GAGq62fDF9KJGEry0zVANGBTqec9KErg
+[027]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/Cq8RXTA3qZ/Game%20Programming%20-%20Episode%20027%20-%20Creating%20Tiles.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[028]: https://dl.dropboxusercontent.com/s/o6kujn6hz8881fv/Game%20Programming%20-%20Episode%2028%20-%20Offsets.mp4?dl=1&token_hash=AAEo-6uX-pUPR58CPukn7daixodrJk48G-hcGUO8jexsAA
+[028]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/ir2kQ-AC59/Game%20Programming%20-%20Episode%20028%20-%20Offsets.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
 [029]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/XRiipn_AfR/Game%20Programming%20-%20Episode%2029%20-%20The%20Render%20Tile%20Method.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
@@ -185,15 +185,15 @@
 
 [038]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/MyInL9Ca-k/Game%20Programming%20-%20Episode%2038%20-%20Procedural%20Rendering.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
-[039]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/HOOW-vYpNz/Game%20Programming%20-%20Episode%2039%20-%20Entity%20Framework.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[039]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/fN5WZUEbgH/Game%20Programming%20-%20Episode%20039%20-%20Entity%20Framework.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[040]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/MjTye2jl0T/Game%20Programming%20-%20Episode%2040%20-%20Mob%20Framework.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[040]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/FEuFC_QQVm/Game%20Programming%20-%20Episode%20040%20-%20Mob%20Framework.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[041]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/ebAnMAPtli/Game%20Programming%20-%20Episode%2041%20-%20Player.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[041]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/_DrTiKK1n9/Game%20Programming%20-%20Episode%20041%20-%20Player.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[042]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/xoJCzw_nH5/Game%20Programming%20-%20Episode%2042%20-%20The%20Move%20Method.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[042]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/cBpxhVnxgO/Game%20Programming%20-%20Episode%20042%20-%20The%20Move%20Method.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
-[043]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/8gbNN0URyp/Game%20Programming%20-%20Episode%2043%20-%20Player%20Input.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
+[043]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/U5zzUjmwE4/Game%20Programming%20-%20Episode%20043%20-%20Player%20Input.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
 [044]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/Z1j1RCE7aa/Game%20Programming%20-%20Episode%2044%20-%20Moving%20Properly.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
@@ -215,13 +215,13 @@
 
 [053]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/4EvXv0xnh_/Game%20Programming%20-%20Episode%2053%20-%20Pixels%20to%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[054]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/icuiC2_npN/Game%20Programming%20-%20Episode%2054%20-%20Making%20Levels.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[054]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/dBYyFDP7Av/Game%20Programming%20-%20Episode%20054%20-%20Making%20Levels.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[055]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/0rtFyZ9TiR/Game%20Programming%20-%20Episode%2055%20-%20A%20Bad%20Way%20to%20Map%20Tiles.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[055]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/xlEhyJMaj1/Game%20Programming%20-%20Episode%20055%20-%20A%20Bad%20Way%20to%20Map%20Tiles.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[056]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/z9sDrlozNj/Game%20Programming%20-%20Episode%2056%20-%20Getting%20Tiles%20the%20Right%20Way.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[056]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/iVwOvflk-I/Game%20Programming%20-%20Episode%20056%20-%20Getting%20Tiles%20the%20Right%20Way.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[057]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/37MZKlcYA-/Game%20Programming%20-%20Episode%2057%20-%20Player%20Spawns.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[057]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/-MiycR0n-x/Game%20Programming%20-%20Episode%20057%20-%20Player%20Spawns.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
 [058]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/47pjM6t6W3/Game%20Programming%20-%20Episode%20058%20-%20Spawn%20Level%20Assets.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
