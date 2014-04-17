@@ -165,15 +165,15 @@
 
 [028]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/ir2kQ-AC59/Game%20Programming%20-%20Episode%20028%20-%20Offsets.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[029]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/XRiipn_AfR/Game%20Programming%20-%20Episode%2029%20-%20The%20Render%20Tile%20Method.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[029]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/RlJ3B8pQ8J/Game%20Programming%20-%20Episode%20029%20-%20The%20Render%20Tile%20Method.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[030]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/amvf24FBD0/Game%20Programming%20-%20Episode%2030%20-%20Rendering%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[030]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/vNAS0jw00n/Game%20Programming%20-%20Episode%20030%20-%20Rendering%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[031]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/CKfVKD7ID4/Game%20Programming%20-%20Episode%2031%20-%20Rendering%20Corner%20Pins.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[031]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/8Y9dQKE3R5/Game%20Programming%20-%20Episode%20031%20-%20Rendering%20Corner%20Pins.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[032]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/TmZn4ofYL_/Game%20Programming%20-%20Episode%2032%20-%20Getting%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[032]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/GpUZLP2D28/Game%20Programming%20-%20Episode%20032%20-%20Getting%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[033]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/_z8DILtVmi/Game%20Programming%20-%20Episode%2033%20-%20The%20Void%20Tile.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[033]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/Y0FbVFeH96/Game%20Programming%20-%20Episode%20033%20-%20The%20Void%20Tile.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
 [034]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/biZ1QGwQ-u/Game%20Programming%20-%20Episode%2034%20-%20Setting%20Offsets.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
@@ -205,15 +205,15 @@
 
 [048]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/jDLFc8mXNW/Game%20Programming%20-%20Episode%2048%20-%20Player%20Direction%20Animation.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
-[049]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/RAiKwzuIcg/Game%20Programming%20-%20Episode%2049%20-%20Flipping%20Sprites.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[049]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/yVZuhNMeCe/Game%20Programming%20-%20Episode%20049%20-%20Flipping%20Sprites.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[050]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/MdwnIgehC0/Game%20Programming%20-%20Episode%2050%20-%20Animating%20Sprites.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[050]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/xJtX5SjOaV/Game%20Programming%20-%20Episode%20050%20-%20Animating%20Sprites.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[051]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/o-xj4Rpq1U/Game%20Programming%20-%20Episode%2051%20-%20More%20Map%20Creation.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[051]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/ZkrP1tbufe/Game%20Programming%20-%20Episode%20051%20-%20More%20Map%20Creation.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[052]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/RKrXqB6HUb/Game%20Programming%20-%20Episode%2052%20-%20Loading%20Level%20Files.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[052]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/beh87uXDsb/Game%20Programming%20-%20Episode%20052%20-%20Loading%20Level%20Files.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
-[053]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/4EvXv0xnh_/Game%20Programming%20-%20Episode%2053%20-%20Pixels%20to%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
+[053]: https://dl.dropboxusercontent.com/sh/8y5x3nfgyfx2bn7/dg8UlRO7cw/Game%20Programming%20-%20Episode%20053%20-%20Pixels%20to%20Tiles.mp4?dl=1&token_hash=AAFfvoZT4iwJQ7Ts8yYSplWk3P5G9xHRaam8Prz29Ymvzw
 
 [054]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/dBYyFDP7Av/Game%20Programming%20-%20Episode%20054%20-%20Making%20Levels.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
