@@ -108,6 +108,7 @@
 * Game Programming - Episode 105 - Random Targeting [105]
 * Game Programming - Episode 106 - Debug Class and Rectangles [106]
 * Game Programming - Episode 107 - Font Sheets [107]
+* Game Programming - Episode 108 - Extracting Sprites [108]
  
 -- Links Provided by @abhisekp
 
@@ -324,3 +325,5 @@
 [106]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/qeuCB-hoXx/Game%20Programming%20-%20Episode%20106%20-%20Debug%20Class%20and%20Rectangles.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
 [107]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/4AovuaOgJs/Game%20Programming%20-%20Episode%20107%20-%20Font%20Sheets.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
+
+[108]: https://dl.dropboxusercontent.com/sh/dlybqikfuldi3qw/b0IaPc3WRA/Game%20Programming%20-%20Episode%20108%20-%20Extracting%20Sprites.mp4?dl=1&token_hash=AAHJOPIVTgM6VW3jBXLNuz7t4UV6yO9_5sH2X7jWDjai3Q
