@@ -130,7 +130,7 @@
 
 [009]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/iCOeAkk1l0/Game%20Programming%20-%20Episode%20009%20-%20Rendering%20Pixels.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
-[0010]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/vEqx9jBtE9/Game%20Programming%20-%20Episode%20010%20-%20Clearing%20the%20Screen.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
+[010]: https://dl.dropboxusercontent.com/sh/0cwmlmedib1i16g/vEqx9jBtE9/Game%20Programming%20-%20Episode%20010%20-%20Clearing%20the%20Screen.mp4?dl=1&token_hash=AAHbJuxoFR5U9-a8vMqSPxbRfIGrCTj-pPUXPMOKI-cQUQ
 
 [011]: https://dl.dropboxusercontent.com/sh/mpu6ezkto6ai5en/SSH95NDjM3/Game%20Programming%20-%20Episode%20011%20-%20Out%20of%20Bounds%2C%20Baby%21.mp4?dl=1&token_hash=AAH0FhOqmNnXN1oHhupBR7hGcMxMNUk1lux2Oadke-dLFA
 
