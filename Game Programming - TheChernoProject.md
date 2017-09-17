@@ -1,5 +1,9 @@
 # Game Programming - TheChernoProject
-[https://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf]
+
+<blockquote align="right">— Links Provided by <a href="https://github.com/abhisekp">Abhisek Pattnaik</a> &lt;<a href="mailto:abhisekp@engineer.com">abhisekp@engineer.com</a>&gt;</blockquote> 
+
+[https://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf](https://www.youtube.com/playlist?list=PLlrATfBNZ98eOOCk2fOFg7Qg5yoQfFAdf)
+
 
 * Game Programming - Episode 001 - Resolution [001]
 * Game Programming - Episode 002 - Threads [002]
@@ -109,8 +113,6 @@
 * Game Programming - Episode 106 - Debug Class and Rectangles [106]
 * Game Programming - Episode 107 - Font Sheets [107]
 * Game Programming - Episode 108 - Extracting Sprites [108]
- 
--- Links Provided by @abhisekp
 
 [001]: https://dl.dropboxusercontent.com/sh/u76svzeksdmx1tb/ZUkQ_mRxgG/Game%20Programming%20-%20Episode%20001%20-%20Resolution.mp4?dl=1&token_hash=AAF5OBvs2nba47Ix4ivnG97gwfL7ICVNaiaSXvf5O3w_Qg
 
