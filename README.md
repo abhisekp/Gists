@@ -1,4 +1,4 @@
-# [My Gists](https://gist.github.com/abhisekp)
+# [The Gists](https://gist.github.com/abhisekp)
 
 # JavaScript Tutorials
 
